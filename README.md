@@ -73,7 +73,7 @@ Noteout11 is a cutting-edge fantasy sports application designed to redefine the 
 ## Technology Stack
 
 ### Frontend
-- **Kotlin:** Android App Development.
+- **Kotlin or JAVA (XML):** Android App Development.
 - **Swift:** iOS App Development.
 
 ### Backend
