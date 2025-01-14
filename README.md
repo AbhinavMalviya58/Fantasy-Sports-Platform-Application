@@ -31,6 +31,7 @@ Noteout11 is a cutting-edge fantasy sports application designed to redefine the 
   - Vice-Captain earns 1.5x points.
 - **Form Multiple Teams:** Create up to six teams but play with one.
 - **Team Management:** Modify teams until the match deadline.
+![Noteout11 Banner](/mockup/2.png)  
 
 ### For Web Admins
 - **Admin Login:** Secure access to the admin dashboard.
